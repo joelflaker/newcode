@@ -8,7 +8,10 @@ class Controller_buy extends Controller {
     public function __construct(Request $request) {
         parent::__construct($request);
         $this->getRequest = $request;
+
         //test1
+
+        //test newcode
     }
 
     /**
